@@ -3,6 +3,8 @@ This is a 3D eye-tracking dataset for visual attention modeling in a virtual mus
 
 [[Paper]](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.2000318) [[Raw subset]](https://github.com/YunzhanZHOU/EDVAM/tree/main/raw_subset) [[Practical subset]](https://drive.google.com/drive/folders/11R0xZvpWLzO9ltPblBrFrMu8IOviTAlf?usp=sharing) [[Practical subset usage]](https://github.com/YunzhanZHOU/EDVAM/blob/main/practical%20_subset/usage.py)
 
+The sitzmann folder is for reference of analysis methods used in V. Sitzmann et al., "Saliency in VR: How Do People Explore Virtual Environments?," in IEEE Transactions on Visualization and Computer Graphics, vol. 24, no. 4, pp. 1633-1642, April 2018
+
 # Raw subset
 Each person's data corresponds to one CSC file.
 
